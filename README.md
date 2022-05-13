@@ -1,5 +1,5 @@
 # Vietnamese syllables
-List of the current Vietnamese syllables: 6659.
+List of the current Vietnamese syllables: 6674. Noted that "tí" and "tý" are seen as two different words. Their sounds are the same.
 
 # References: 
 1) 6653 syllables

@@ -3788,6 +3788,7 @@ let separatedVietnameseSyllables = [
     "nguỵ",
     "nguyên",
     "nguyền",
+    "nguyễn",
     "nguyện",
     "nguyệt",
     "nguýt",
