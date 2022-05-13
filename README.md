@@ -1,5 +1,5 @@
 # Vietnamese syllables
-List of the current Vietnamese syllables: 6658.
+List of the current Vietnamese syllables: 6659.
 
 # References: 
 1) 6653 syllables
